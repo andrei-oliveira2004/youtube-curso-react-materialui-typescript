@@ -15,5 +15,6 @@ export const Environment = {
   /**
    * Url base de consultado dos dados dessa aplicação
    */
-  URL_BASE: 'http://localhost:3333',
+  // eslint-disable-next-line linebreak-style
+  URL_BASE: 'https://projeto-api-rest-adud.onrender.com',
 };
